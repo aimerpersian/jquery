@@ -48,6 +48,10 @@ var access = function( elems, fn, key, value, chainable, emptyGet, raw ) {
 
 
 
+
+
+
+
 		if ( fn ) {
 			for ( ; i < len; i++ ) {
 				fn(
